@@ -1,17 +1,17 @@
 Package: terraform
-Version: 0.10.0
+Version: 0.10.1
 License: unknown
 Vendor: none
 Architecture: amd64
-Maintainer: <travis@testing-docker-c16ca9dc-e6a2-4a48-b59f-04e8cd50f4f1>
-Installed-Size: 50338
+Maintainer: <travis@testing-docker-5d50cc01-19cc-4c2c-87a2-20c90cf3a62a>
+Installed-Size: 50911
 Homepage: http://example.com/no-uri-given
 Priority: extra
 Section: default
-Filename: pool/main/t/terraform/terraform_0.10.0_amd64.deb
-Size: 12260030
-SHA256: ce40e28d948b169ee0d3bd11fed3b3c6f6a3cfa9428f9f6de3391329dc8ebbde
-SHA1: 265ecb56b0b0d28d668a131d35818cb2fc15ebc1
-MD5sum: 4470376962bf0d17a8afddc929044994
+Filename: pool/main/t/terraform/terraform_0.10.1_amd64.deb
+Size: 12456630
+SHA256: d2a471865d395738183129115b0d10f87bc28107d42c194032b2bbf871a4be01
+SHA1: 8ead18645ffe7835df2dc64ad7f2b90b5b7faf25
+MD5sum: 7976cfab746d8da86941c68d9b9dda3d
 Description: no description given
 
