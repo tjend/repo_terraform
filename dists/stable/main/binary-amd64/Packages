@@ -1,17 +1,17 @@
 Package: terraform
-Version: 0.11.1
+Version: 0.11.2
 License: unknown
 Vendor: none
 Architecture: amd64
-Maintainer: <travis@travis-job-tjend-make-deb-terra-309818294.travisci.net>
-Installed-Size: 58158
+Maintainer: <travis@travis-job-tjend-make-deb-terra-327071098.travisci.net>
+Installed-Size: 61262
 Homepage: http://example.com/no-uri-given
 Priority: extra
 Section: default
-Filename: pool/main/t/terraform/terraform_0.11.1_amd64.deb
-Size: 14710856
-SHA256: 75cbcd969f8683eb08d2bbb0b5aa916111413d7f523482d86c33cde5858a37a0
-SHA1: 24fae76e24dddfe93b4dce211c556d9dcc8f0c40
-MD5sum: 19244185bde16667ee7cb4f8a36c678c
+Filename: pool/main/t/terraform/terraform_0.11.2_amd64.deb
+Size: 15308018
+SHA256: b64ba9e620e41b3a4bebd4d0d7ba69d9e3d3a288ef613aeb79bf2eabf25e249c
+SHA1: 130f04e34e100714ae0aac57f4035f87b58f61f8
+MD5sum: f36a3aeae24714b6aa88468e1eaf1a4b
 Description: no description given
 
