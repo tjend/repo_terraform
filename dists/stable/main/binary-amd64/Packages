@@ -1,17 +1,17 @@
 Package: terraform
-Version: 0.12.24
+Version: 0.12.25
 License: unknown
 Vendor: none
 Architecture: amd64
-Maintainer: <travis@travis-job-9e121b50-c2f6-4c96-bdfe-991a47da74c9>
-Installed-Size: 50156
+Maintainer: <travis@travis-job-54780791-0bdf-47a2-88f8-940673b60e83>
+Installed-Size: 51328
 Homepage: http://example.com/no-uri-given
 Priority: extra
 Section: default
-Filename: pool/main/t/terraform/terraform_0.12.24_amd64.deb
-Size: 16526768
-SHA256: 520219a6a41d1f29a4cdc91af91d75eef8aded2246f128bcec1790753523c441
-SHA1: 23b6f079c20047566a6ee35952335dd2915a92fa
-MD5sum: 26ff154e964ff31fedfc7d44434f4d3d
+Filename: pool/main/t/terraform/terraform_0.12.25_amd64.deb
+Size: 16737740
+SHA256: cbd3442d5dd6f4b944ba586cfb196c97591afbfb9a7a9361d074447c42845cd1
+SHA1: 85d124c3e4892cf4c65654e86110defbbd6788a5
+MD5sum: 4d9d6ffd8686ac7164735c265aeff47a
 Description: no description given
 
