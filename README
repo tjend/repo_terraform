@@ -1,14 +1,7 @@
+Offline - Debian Repository for Terraform
+
 Terraform Debian packages
 
-This is a Debian package repository of Terraform to automate installation and upgrade. To use this repository, first add the key to your system:
+This apt repo has been taken offline since Hashicorp finally created their own apt repo.
 
-wget -q -O - https://tjend.github.io/repo_terraform/repo_terraform.key | sudo apt-key add -
-
-Then add the following entry in your /etc/apt/sources.list.d/terraform.list:
-deb [arch=amd64] https://tjend.github.io/repo_terraform stable main
-
-Update your local package index, then finally install Terraform:
-sudo apt-get update
-sudo apt-get install terraform
-
-See https://www.terraform.io/docs/ for more information.
+See https://www.hashicorp.com/blog/announcing-the-hashicorp-linux-repository for more information.

@@ -1,37 +1,13 @@
 <html>
 <head>
-  <title>Debian Repository for Terraform</title>
-  <style>
-    TH { font-weight: bold; }
-    #debs { border-spacing:3em 0em; margin-top:2em; }
-  </style>
+  <title>Offline - Debian Repository for Terraform</title>
 </head>
 <body>
 <h1>Terraform Debian packages</h1>
 <p>
-This is a Debian package repository of Terraform to automate installation and upgrade. To use this repository, first add the key to your system:
-
-<pre style="padding:0.5em; margin:1em; background-color:black; color:white">
-wget -q -O - <a href="repo_terraform.key" style="color:white">https://tjend.github.io/repo_terraform/repo_terraform.key</a> | sudo apt-key add -
-</pre>
-
-Then add the following entry in your <tt>/etc/apt/sources.list.d/terraform.list</tt>:
-
-<pre style="padding:0.5em; margin:1em; background-color:black; color:white">
-deb [arch=amd64] https://tjend.github.io/repo_terraform stable main
-</pre>
+This apt repo has been taken offline since Hashicorp finally created their own apt repo.
 </p>
-
 <p>
-Update your local package index, then finally install Terraform:
-
-<pre style="padding:0.5em; margin:1em; background-color:black; color:white">
-sudo apt-get update
-sudo apt-get install terraform
-</pre>
-</p>
-
-<p>
-See <a href="https://www.terraform.io/docs/">https://www.terraform.io/docs/</a> for more information.
+See <a href="https://www.hashicorp.com/blog/announcing-the-hashicorp-linux-repository">https://www.hashicorp.com/blog/announcing-the-hashicorp-linux-repository</a> for more information.
 </p>
 </body></html>
